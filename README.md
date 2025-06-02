@@ -1,3 +1,6 @@
+Author
+Nada Badran
+
 # 🩺 Medical Insurance Project
 
 A Python class to represent patient data and estimate insurance costs.
